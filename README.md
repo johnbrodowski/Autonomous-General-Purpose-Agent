@@ -1,3 +1,6 @@
+**Status**: Private / Proprietary. Not open-source.
+
+
 # AGPA: A fully autonomous Autonomous General Purpose Agent for Development & Automation Platform
 
 **AGPA** is an advanced AI development assistant that combines code generation, Windows desktop automation, and multi-AI provider integration into a unified platform. It enables AI agents to write, test, and execute code while also controlling desktop applications through natural language commands.
