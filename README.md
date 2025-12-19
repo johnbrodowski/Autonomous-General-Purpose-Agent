@@ -622,4 +622,4 @@ Start with simple tasks and gradually explore the full capabilities of the platf
 **Last Updated**: December 2025
 **Platform**: Windows 10+
 **Status**: ✅ Active Development
-**License**: See LICENSE file
+**License**: Proprietary software, no public license
