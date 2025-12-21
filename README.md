@@ -1,5 +1,7 @@
 **Status**: Private / Proprietary. Not open-source.
 
+<img width="1329" height="507" alt="Captureh2" src="https://github.com/user-attachments/assets/17beb46f-215c-433d-b0d4-9cc33495fb48" />
+
 
 # AGPA: A Fully Autonomous General Purpose Agent for Development & Automation Platform
 
