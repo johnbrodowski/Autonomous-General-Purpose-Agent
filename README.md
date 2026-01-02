@@ -7,6 +7,10 @@
 
 **AGPA** is an advanced AI development assistant that combines code generation, Windows desktop automation, and multi-AI provider integration into a unified platform. It enables AI agents to write, test, and execute code while also controlling desktop applications through natural language commands.
 
+
+Some older videos:
+[https://www.youtube.com/@CognitiveEngineering](https://www.youtube.com/@CognitiveEngineering)
+
 ---
 
 ## 🎯 What Can AGPA Do?
