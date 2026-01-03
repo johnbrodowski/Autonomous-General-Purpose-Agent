@@ -11,6 +11,11 @@
 Some older demo videos:
 [https://www.youtube.com/@CognitiveEngineering](https://www.youtube.com/@CognitiveEngineering)
 
+### Full list of tools
+[Current Toolbox](https://github.com/johnbrodowski/Autonomous-General-Purpose-Agent/raw/refs/heads/master/Autonomous%20General%20Purpose%20Agent/ToolClass.cs)
+
+
+
 ---
 
 ## 🎯 What Can AGPA Do?
