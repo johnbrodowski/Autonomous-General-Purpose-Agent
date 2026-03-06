@@ -26,7 +26,7 @@ Some older demo videos:
 - Describe what you want in plain English
 - AI handles the entire development lifecycle
 - From initial design through testing and deployment
-- Supports Python, C#, C++, Go, Rust, TyapeScript, and JavaScript
+- Supports Python, C#, C++, Go
 - Automatically sets up project structure and dependencies
 - Builds, tests, debugs, and refines until working perfectly
 
